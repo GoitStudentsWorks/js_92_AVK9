@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-proj-js-Cats/",
+    "build": "vite build --base=/js_92_AVK9/",
     "preview": "vite preview"
   },
   "devDependencies": {
